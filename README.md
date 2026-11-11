@@ -44,11 +44,9 @@ Verified chemists rate whether published reactions actually work, attached to th
 </tr>
 </table>
 
-### 🧰 Toolbox
+### 🧰 Additional Tools
 
 <img src="https://img.shields.io/badge/RDKit-black?style=flat-square">
 <img src="https://img.shields.io/badge/KNIME-black?style=flat-square&logo=knime">
-<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Claude%20Code-black?style=flat-square&logo=claude">
 
 </div>
